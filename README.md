@@ -1,6 +1,6 @@
 # MovieNights
 
-This project was made with React and Vite. The purpose of this app is to help you make a favorite movies list, based on personal ratings. There is no back-end, the movies are saved in the browser's local storage.
+This project was made with React and Vite. The purpose of this app is to help you make a favorite movies list, based on personal ratings ( and to help me learn State Management). There is no back-end, the movies are saved in the browser's local storage.
 
 # Setup
 
